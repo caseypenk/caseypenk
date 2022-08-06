@@ -1,4 +1,3 @@
-# caseypenk
 Welcome!
 
 My name is Casey Penk and I am currently a student in the Software Engineering Immersive at Hack Reactor.
