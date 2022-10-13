@@ -4,7 +4,7 @@ My name is Casey Penk and I'm a full-stack web developer with a focus on creatin
 
 I'm currently a student in the Advanced Software Engineering Immersive at Hack Reactor. I'm seeking a full-stack or front-end software engineering position to begin in November 2022. If you would like to discuss further, feel free to reach out at caseypenk [at] gmail [dot] com.
 
-I previously worked as a Product Manager at ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
+I previously worked as a Product Manager at ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 
 ### skills
 #### general purpose
